@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(177, 240, 118);
+}
+.heading{
+    width: 80%;
+    font-size: 25px;
+    font-family:'Palatino';
+}
+#camara{
+    height: 300px;
+    width: 350px;
+    border: 2px dashed black;
+}
